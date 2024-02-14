@@ -1,3 +1,6 @@
 This is the path forward file. 
 
-1. I need to add some short tect about 
+1. I need to add some short text about the problem and the solution
+2. Need to figure out my Personal access token situation 
+3. Then figure out how to deploy the page. 
+4. Then show Jamaine. 
