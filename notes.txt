@@ -4,3 +4,4 @@ This is the path forward file.
 2. Need to figure out my Personal access token situation 
 3. Then figure out how to deploy the page. 
 4. Then show Jamaine. 
+5. We good to go pending his vote. 
