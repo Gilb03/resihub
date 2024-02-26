@@ -9,4 +9,4 @@ This is the path forward file.
 
 02/22/24
 - I need to update the mobile likability in the home page and about page. 
-   - 
+   - I need to fix the drop down and make those links clickable again. 
