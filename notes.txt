@@ -10,3 +10,9 @@ This is the path forward file.
 02/22/24
 - I need to update the mobile likability in the home page and about page. 
    - I need to fix the drop down and make those links clickable again. 
+
+02/27/2024
+1. The website is LIVE!!! 
+
+updates: 
+   - I wanna pull next.js templates and build the newest landing page from there. 
