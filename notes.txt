@@ -16,3 +16,7 @@ This is the path forward file.
 
 updates: 
    - I wanna pull next.js templates and build the newest landing page from there. 
+   ** Based on what jamaine says, it could be 
+       1) https://next-example-marketing.vercel.app/
+       2) https://next-example-marketing.vercel.app/
+        - from here i cater it to our brand, and identity. 
