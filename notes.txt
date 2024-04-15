@@ -20,3 +20,8 @@ updates:
        1) https://next-example-marketing.vercel.app/
        2) https://next-example-marketing.vercel.app/
         - from here i cater it to our brand, and identity. 
+
+
+
+04/15/2024
+- make sure that the text comes through white with a darker faded background. 
