@@ -23,7 +23,7 @@ body::before {
 
 
   #landing-header {
-    z-index: 1000;
+    z-index: 1;
     position: relative;
     text-align: left;
     color: white;
